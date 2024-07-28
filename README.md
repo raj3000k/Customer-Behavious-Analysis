@@ -20,7 +20,9 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 
 # ER
 
-![ERD](https://github.com/user-attachments/assets/ded5d406-a201-46a8-b515-ad7961916d05)
+![Screenshot 2024-07-28 at 11 40 07 PM](https://github.com/user-attachments/assets/a36ce074-10ae-4eaa-bfd6-17766c0be31e)
+
+ 
 
 # Tables:
 - Table 1: sales 
